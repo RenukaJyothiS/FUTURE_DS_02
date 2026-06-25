@@ -93,7 +93,7 @@ FUTURE_DS_02/
 > **Dashboard Screenshot**
 
 <p align="center">
-  <img src="images/dashboard.png" width="100%">
+  <img src="images/dashboard_img.png" width="100%">
 </p>
 
 ---
